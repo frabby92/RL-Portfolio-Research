@@ -69,7 +69,7 @@ RL_Portfolio_Research/
 
 ## Author
 
-Rabby
+MD Fazle Rabby Chowdhury
 
 BBA (Finance)
 
